@@ -2,7 +2,17 @@ p {
     background-color: #f19a9aee;
     font-family: "Verdana","DejaVu Sans", sans-serif;
 }
+#second{
+    color: #0000ff;
+    font-size: 36px;
 
+}
 .third-element {
     font-size: 24px;
+}
+
+#fourth{
+    background-color: #00ff00;
+    font-size: 24px;
+    font-weight: bold;
 }
